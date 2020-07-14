@@ -1,2 +1,2 @@
-# 1376258881.github.io
+# wangxinyu.github.io
 个人站点测试
